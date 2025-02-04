@@ -13,4 +13,6 @@ Projektet spårar vinstfrekvenser mot både en slumpmässig och en perfekt polic
 ## Slutmål
 Det slutliga målet är att utveckla en AI som kan spela Tic-Tac-Toe effektivt genom att lära sig från tidigare spel och exportera dessa policier i JSON format. Dessa kommer jag använda för att implementera i en react app.
 
-main.ipynb lägger jag i gitignore tillsvidare då en del av koden kan användas till en kurs som inte alla deltagare har klarat än. Uppdaterar när alla examinationstillfällen är klara
+https://github.com/SimRuo/tic-tac-toe
+
+main.ipynb lägger jag i gitignore tillsvidare då en del av koden kan användas till en kurs som inte alla deltagare har klarat än. Uppdaterar när alla examinationstillfällen är klara.
